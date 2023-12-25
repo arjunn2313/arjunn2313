@@ -1,4 +1,4 @@
-## Hi 👋 My name is Arjun KS
+# Hi 👋 My name is Arjun KS
 
 ## Full Stack Developer 
 Hello and welcome to my GitHub profile! I'm Arjun, a passionate Full-Stack Web Developer. I have a strong background in web development, with a focus on building robust and scalable web applications. My journey in the world of programming began several years ago, and I've had the privilege of working with a wide range of technologies and frameworks.
@@ -15,7 +15,7 @@ Thank you for visiting my GitHub profile. Let's collaborate, learn, and build am
 🌐 Full-Stack Expertise
 As a Full-Stack Web Developer, I am well-versed in both front-end and back-end technologies. Here's a glimpse of my skill set:
 
-<h4>Skills</h4>
+## Skills
 <span>
 <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' width='60px' height='60px' alt ='JavaScript'/>
 <img src='https://www.logo.wine/a/logo/React_(web_framework)/React_(web_framework)-Logo.wine.svg' width='60px' height='60px' alt ='React'/>
