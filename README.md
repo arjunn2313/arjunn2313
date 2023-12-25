@@ -1,6 +1,6 @@
-### Hi 👋 My name is Arjun KS<hr/>
+## Hi 👋 My name is Arjun KS
 
-Full Stack Developer<hr/>
+## Full Stack Developer 
 Hello and welcome to my GitHub profile! I'm Arjun, a passionate Full-Stack Web Developer. I have a strong background in web development, with a focus on building robust and scalable web applications. My journey in the world of programming began several years ago, and I've had the privilege of working with a wide range of technologies and frameworks.
 
 🌟 Let's Connect I'm always eager to connect with fellow developers, freelancers, and tech enthusiasts. Feel free to reach out to me via GitHub, or connect with me on
